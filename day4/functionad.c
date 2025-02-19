@@ -1,5 +1,3 @@
-//without return type & with parameter
-
 
 #include<stdio.h>
 void add(int a,int b)
