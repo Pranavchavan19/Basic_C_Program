@@ -1,4 +1,4 @@
-//with writen type & with parametre
+
 
 #include<stdio.h>
 int factorial(int fact,int n)
